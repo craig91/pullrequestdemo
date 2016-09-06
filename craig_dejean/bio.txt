@@ -1,4 +1,5 @@
 Name: 
- Favorite Movie: 
- Favorite Food: 
- Favorite Candy:
+ Favorite Movie: Matrix 
+ Favorite Food: Mac N Cheese
+ Favorite Candy: Skittles
+ Birthday: Halloween 1991 
